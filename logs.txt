@@ -1,0 +1,107 @@
+06:29:28 words is a required argument that is missing.
+06:39:09 tempType is a required argument that is missing.
+06:39:09 tempNum is a required argument that is missing.
+06:57:46 tempType is a required argument that is missing.
+06:58:38 tempType is a required argument that is missing.
+06:59:55 tempType is a required argument that is missing.
+07:00:35 tempType is a required argument that is missing.
+07:10:13 die is a required argument that is missing.
+07:10:13 Command raised an exception: ValueError: empty range for randrange() (1, 0, -1)
+07:10:13 die is a required argument that is missing.
+07:18:38 Command raised an exception: ValueError: empty range for randrange() (1, 0, -1)
+07:18:38 Command raised an exception: ValueError: empty range for randrange() (1, 0, -1)
+07:19:39 Command raised an exception: ValueError: empty range for randrange() (1, 0, -1)
+07:21:20 Command raised an exception: TypeError: unsupported operand type(s) for +: 'NoneType' and 'str'
+07:23:11 Command raised an exception: TypeError: unsupported operand type(s) for +: 'NoneType' and 'str'
+07:29:36 url is a required argument that is missing.
+07:29:36 name is a required argument that is missing.
+07:32:17 Command raised an exception: InvalidURL: gfgfg
+07:32:17 Command raised an exception: InvalidURL: dfgdfgdgd
+07:32:17 Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In image: File cannot be larger than 256.0 kb.
+07:41:27 die is a required argument that is missing.
+07:41:27 Command raised an exception: ValueError: empty range for randrange() (1, 0, -1)
+07:44:11 Command raised an exception: ValueError: empty range for randrange() (1, 0, -1)
+07:46:07 die is a required argument that is missing.
+07:46:07 Command raised an exception: ValueError: empty range for randrange() (1, 0, -1)
+07:47:09 die is a required argument that is missing.
+07:47:09 Command raised an exception: ValueError: empty range for randrange() (1, 0, -1)
+07:47:09 Command raised an exception: ValueError: invalid literal for int() with base 10: '1+1'
+07:47:09 Command raised an exception: ValueError: empty range for randrange() (1, -9999, -10000)
+07:47:09 Command raised an exception: ValueError: invalid literal for int() with base 10: '#$%567uythr456uytryujhm'
+07:53:12 Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In image: File cannot be larger than 256.0 kb.
+07:58:26 emoji is a required argument that is missing.
+07:58:26 Couldn't convert "g" to PartialEmoji.
+08:02:02 emoji is a required argument that is missing.
+08:02:02 Couldn't convert "g" to PartialEmoji.
+08:02:02 emoji is a required argument that is missing.
+08:02:02 Couldn't convert "5" to PartialEmoji.
+10:02:58 words is a required argument that is missing.
+10:02:58 tempType is a required argument that is missing.
+10:02:58 tempNum is a required argument that is missing.
+10:02:58 tempNum is a required argument that is missing.
+15:07:49 Command raised an exception: IndexError: list index out of range
+22:47:26 Command raised an exception: AttributeError: 'str' object has no attribute 'content'
+20:30:12 Command raised an exception: AttributeError: 'NoneType' object has no attribute 'lower'
+05:32:11 Command raised an exception: AttributeError: 'NoneType' object has no attribute 'lower'
+05:02:08 Command raised an exception: IndexError: list index out of range
+05:02:08 Command raised an exception: IndexError: list index out of range
+10:45:11 Command raised an exception: AttributeError: 'NoneType' object has no attribute 'lower'
+11:22:10 Command raised an exception: IndexError: list index out of range
+11:22:10 Command raised an exception: IndexError: list index out of range
+11:22:10 Command raised an exception: IndexError: list index out of range
+11:22:10 Command raised an exception: IndexError: list index out of range
+11:22:10 Command raised an exception: IndexError: list index out of range
+11:22:10 Command raised an exception: IndexError: list index out of range
+23:11:27 Command raised an exception: ValueError: invalid literal for int() with base 10: 'd3'
+08:49:41 tempNum is a required argument that is missing.
+15:38:28 Command raised an exception: ValueError: invalid literal for int() with base 10: 'd20'
+15:38:28 Command raised an exception: ValueError: invalid literal for int() with base 10: '1d20'
+15:38:28 Command raised an exception: ValueError: invalid literal for int() with base 10: '1d20'
+02:10:22 Command raised an exception: ValueError: invalid literal for int() with base 10: '1d2'
+02:10:22 Command raised an exception: ValueError: invalid literal for int() with base 10: '1d2'
+02:40:41 Command raised an exception: ValueError: invalid literal for int() with base 10: 'd2'
+02:40:41 Command raised an exception: ValueError: invalid literal for int() with base 10: ''
+02:40:41 Command raised an exception: ValueError: invalid literal for int() with base 10: 'd2'
+02:40:41 Command raised an exception: ValueError: empty range for randrange() (1, 1, 0)
+02:53:11 Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.fields.0.name: This field is required
+02:55:59 Command raised an exception: ValueError: invalid literal for int() with base 10: ''
+02:55:59 Command raised an exception: ValueError: invalid literal for int() with base 10: '20\\'
+02:55:59 Command raised an exception: ValueError: invalid literal for int() with base 10: '20\\\\\\'
+14:36:59 name is a required argument that is missing.
+14:36:59 Command raised an exception: IndexError: list index out of range
+14:36:59 Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In name: Must be between 2 and 32 in length.
+14:41:41 Command raised an exception: HTTPException: 400 Bad Request (error code: 50045): Asset exceeds maximum size: 33554432
+14:45:05 name is a required argument that is missing.
+14:45:05 Command raised an exception: IndexError: list index out of range
+14:45:44 name is a required argument that is missing.
+14:45:44 Command raised an exception: IndexError: list index out of range
+14:45:44 Command raised an exception: HTTPException: 400 Bad Request (error code: 50045): Asset exceeds maximum size: 33554432
+14:45:44 Command raised an exception: HTTPException: 400 Bad Request (error code: 50045): Asset exceeds maximum size: 33554432
+14:47:00 Command raised an exception: HTTPException: 400 Bad Request (error code: 50045): Asset exceeds maximum size: 33554432
+14:47:00 Command raised an exception: InvalidArgument: Unsupported image type given
+14:50:02 Command raised an exception: InvalidArgument: Unsupported image type given
+14:51:38 Command raised an exception: InvalidArgument: Unsupported image type given
+14:52:29 Command raised an exception: InvalidArgument: Unsupported image type given
+14:55:57 name is a required argument that is missing.
+14:55:57 Command raised an exception: IndexError: list index out of range
+14:55:57 Command raised an exception: InvalidArgument: Unsupported image type given
+14:56:24 Command raised an exception: InvalidArgument: Unsupported image type given
+14:56:24 Command raised an exception: InvalidArgument: Unsupported image type given
+14:56:42 Command raised an exception: InvalidArgument: Unsupported image type given
+14:56:42 name is a required argument that is missing.
+14:56:42 Command raised an exception: IndexError: list index out of range
+14:56:42 Command raised an exception: HTTPException: 400 Bad Request (error code: 50045): Asset exceeds maximum size: 33554432
+11:35:06 Command raised an exception: IndexError: list index out of range
+22:38:33 Couldn't convert ":eirikachug:" to PartialEmoji.
+23:06:12 Command raised an exception: UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92 in position 912: invalid start byte
+23:06:12 Command raised an exception: UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92 in position 912: invalid start byte
+23:06:12 Command raised an exception: AttributeError: 'NoneType' object has no attribute 'lower'
+23:06:12 Command raised an exception: AttributeError: 'NoneType' object has no attribute 'lower'
+23:06:12 Command raised an exception: UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92 in position 912: invalid start byte
+01:40:57 name is a required argument that is missing.
+01:40:57 name is a required argument that is missing.
+01:40:57 Command raised an exception: AttributeError: 'NoneType' object has no attribute 'lower'
